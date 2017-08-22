@@ -1,4 +1,5 @@
 # devops--aula02
 # Lily collins
-# Emma Watson
+# Bruna Marquezine
 # Daniel Radcliffe 
+# Cléo Pires
